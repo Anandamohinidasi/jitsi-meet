@@ -696,7 +696,7 @@
             "join": "Toque para entrar",
             "roomname": "Digite o nome da sala"
         },
-        "appDescription": "Vá em frente, converse por vídeo com toda a equipe. De fato, convide todos que você conhece. {{app}} é uma solução de videoconferência totalmente criptografada e 100% de código aberto que você pode usar todos os dias, a cada dia, gratuitamente  — sem necessidade de conta.",
+        "appDescription": "Participe de leituras dos livros de Srila Gurudeva com devotos do mundo todo. Crie seu canal abaixo ou participe de uma leitura ao vivo.",
         "audioVideoSwitch": {
             "audio": "Voz",
             "video": "Vídeo"
@@ -718,6 +718,6 @@
         "roomnameHint": "Digite o nome ou a URL da sala que você deseja entrar. Você pode digitar um nome, e apenas deixe para as pessoas que você quer se reunir digitem o mesmo nome.",
         "sendFeedback": "Enviar comentários",
         "terms": "Termos",
-        "title": "Videoconferências mais seguras, flexíveis e totalmente gratuitas"
+        "title": "Leitura dos livros de Srila Gurudeva"
     }
 }

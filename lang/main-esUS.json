@@ -686,7 +686,7 @@
             "join": "Toca para unirte",
             "roomname": "Introducir nombre de sala"
         },
-        "appDescription": "Adelante, ten una sesión de chat de video con todo el equipo. De hecho, invita a todas las personas que conozcas. {{app}} es una solución de conferencias en video en código abierto al 100% y completamente cifrada que puedes usar todo el día, todos los días y sin cargo, sin necesidad de tener una cuenta.",
+        "appDescription": "Adelante adentre lectura de los libros de Srila Gurudeva con devotos de todo el mundo. Crie un canal ou adentre uno ao vivo.",
         "audioVideoSwitch": {
             "audio": "Voz",
             "video": "Video"
@@ -707,6 +707,6 @@
         "roomnameHint": "Introduce el nombre o la dirección URL de la sala a la que deseas unirte. Puedes inventar un nombre, simplemente infórmaselo a las personas con las que te reunirás para que introduzcan el mismo nombre.",
         "sendFeedback": "Enviar comentario",
         "terms": "Términos",
-        "title": "Conferencias en video seguras, con gran variedad de funciones y completamente gratuitas"
+        "title": "Lectura de los libros de Srila Gurudeva"
     }
 }
